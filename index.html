@@ -37,6 +37,10 @@
         visibility: hidden;
       }
     </style>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
     <link rel="stylesheet" href="style.css" />
   </head>
 
@@ -54,7 +58,17 @@
     </header>
 
     <main class="main">
-      <article class="swiper"></article>
+      <article class="swiper">
+        <div class="swiper-wrapper">
+          <img src="/images/image-product-1.jpg" class="swiper-slide" alt="product" />
+          <img src="./images/image-product-2.jpg" class="swiper-slide" alt="product" />
+          <img src="./images/image-product-3.jpg" class="swiper-slide" alt="product" />
+          <img src="./images/image-product-4.jpg" class="swiper-slide" alt="product" />
+        </div>
+
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+      </article>
 
       <article class="description">
         <h2 class="description_company">SNEAKER COMPANY</h2>
@@ -111,6 +125,9 @@
         >.
       </div>
     </footer>
-    <!-- Collections Men Women About Contact   -->
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="./swiper.js"></script>
+    <script src="./script.js"></script>
   </body>
 </html>
