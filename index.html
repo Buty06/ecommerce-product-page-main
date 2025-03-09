@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -60,14 +60,38 @@
     <main class="main">
       <article class="swiper">
         <div class="swiper-wrapper">
-          <img src="/images/image-product-1.jpg" class="swiper-slide" alt="product" />
-          <img src="./images/image-product-2.jpg" class="swiper-slide" alt="product" />
-          <img src="./images/image-product-3.jpg" class="swiper-slide" alt="product" />
-          <img src="./images/image-product-4.jpg" class="swiper-slide" alt="product" />
+          <img
+            popovertarget="image-popover"
+            src="/images/image-product-1.jpg"
+            class="swiper-slide"
+            alt="product"
+          />
+          <img
+            popovertarget="image-popover"
+            src="./images/image-product-2.jpg"
+            class="swiper-slide"
+            alt="product"
+          />
+          <img
+            popovertarget="image-popover"
+            src="./images/image-product-3.jpg"
+            class="swiper-slide"
+            alt="product"
+          />
+          <img
+            popovertarget="image-popover"
+            src="./images/image-product-4.jpg"
+            class="swiper-slide"
+            alt="product"
+          />
         </div>
 
         <div class="swiper-button-prev"></div>
         <div class="swiper-button-next"></div>
+      </article>
+
+      <article id="image-popover" popover>
+        <img src="" alt="Enlarged Product Image" id="popover-image" />
       </article>
 
       <article class="description">
