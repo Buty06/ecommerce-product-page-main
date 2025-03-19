@@ -243,6 +243,7 @@ body {
   padding: 1.5rem;
   display: grid;
   grid-template-rows: 4rem 1fr;
+  display: none;
 }
 
 .clouse_menu_btn {
@@ -263,4 +264,14 @@ body {
   justify-content: space-between;
   font-size: 1.2rem;
   color: var(--Very-dark-blue);
+}
+
+@keyframes slider {
+  from {
+    transform: translateX(-20rem);
+  }
+
+  to {
+    transform: translateX(0rem);
+  }
 }
