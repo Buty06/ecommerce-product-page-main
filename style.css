@@ -266,12 +266,30 @@ body {
   color: var(--Very-dark-blue);
 }
 
-@keyframes slider {
+.sliderIn {
+  animation: sliderIn 1s ease;
+}
+
+.sliderOff {
+  animation: sliderOff 1s ease;
+}
+
+@keyframes sliderOff {
   from {
     transform: translateX(-20rem);
   }
 
   to {
     transform: translateX(0rem);
+  }
+}
+
+@keyframes sliderIn {
+  from {
+    transform: translateX(0rem);
+  }
+
+  to {
+    transform: translateX(-20rem);
   }
 }
