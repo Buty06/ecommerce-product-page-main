@@ -11,6 +11,7 @@ const openMenu = () => {
 
   clouseButton.addEventListener("click", () => {
     aside.classList.remove("sliderOff");
+
     aside.classList.add("sliderIn");
 
     setTimeout(() => {
