@@ -267,11 +267,11 @@ body {
 }
 
 .sliderIn {
-  animation: sliderIn 1s ease;
+  animation: sliderIn 0.5s ease;
 }
 
 .sliderOff {
-  animation: sliderOff 1s ease;
+  animation: sliderOff 0.5s ease;
 }
 
 @keyframes sliderOff {
