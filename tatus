@@ -1,0 +1,126 @@
+[33mcommit 79deab4b1a4da95a641120f208e6dd9947e8d09e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Buty06 <mecagoenlashormigas@gmail.com>
+Date:   Fri Mar 21 16:27:28 2025 -0400
+
+    Creando el valor encima del card
+
+[33mcommit de74a0256424b8ab80cc9e9a437d12304903816c[m
+Author: Buty06 <mecagoenlashormigas@gmail.com>
+Date:   Fri Mar 21 15:34:03 2025 -0400
+
+    Creando la funcionalidad de suma y bresta en el elemento
+
+[33mcommit 243cc8beafd76508bdc270757194d18fb621275a[m
+Author: Buty06 <mecagoenlashormigas@gmail.com>
+Date:   Thu Mar 20 17:28:57 2025 -0400
+
+    Refactorizando un poco el codigo y creando la integracion de cierre tambien en el main
+
+[33mcommit 4516763a477da26047b9f26eb2c2feb24affa1c3[m
+Author: Buty06 <mecagoenlashormigas@gmail.com>
+Date:   Thu Mar 20 17:18:49 2025 -0400
+
+    Creando el slide del menu con su funcionalidad
+
+[33mcommit 5f68a104224b597cb41325c9a3f0912bf99e0eb3[m
+Author: Buty06 <mecagoenlashormigas@gmail.com>
+Date:   Thu Mar 20 17:18:11 2025 -0400
+
+    Creando la animacion del menu pero le falta funcionalidad
+
+[33mcommit 8fa9968a3e4a3078821973ffb04a1087bc33b1dd[m
+Author: Buty06 <mecagoenlashormigas@gmail.com>
+Date:   Wed Mar 19 18:04:55 2025 -0400
+
+    Creando la animacion del menu pero le falta funcionalidad
+
+[33mcommit b3af6b07bae424e6d81d0c1ec039d33b753810f4[m
+Author: Buty06 <mecagoenlashormigas@gmail.com>
+Date:   Wed Mar 19 17:07:18 2025 -0400
+
+    Creando los estilos parta el slide
+
+[33mcommit 5422e5a99040cf9ed71154f64deb5b55726452b7[m
+Author: Buty06 <mecagoenlashormigas@gmail.com>
+Date:   Wed Mar 19 11:19:38 2025 -0400
+
+    Customizando los botones
+
+[33mcommit 345896d8534b74b8f01e0a8e5570483c38d861d2[m
+Author: Buty06 <mecagoenlashormigas@gmail.com>
+Date:   Tue Mar 18 14:29:48 2025 -0400
+
+    Creando algo
+
+[33mcommit 8a1f309357cf0e81fa181eca4a789ace63207e69[m
+Merge: d009cde 1967c5d
+Author: Buty <139654919+Buty06@users.noreply.github.com>
+Date:   Sat Mar 8 21:32:59 2025 -0500
+
+    Merge pull request #1 from Dantescur/main
+    
+    starting point for popover with swiperjs implementation
+
+[33mcommit 1967c5d754f632ec2a89c63b142d9563d23a0147[m
+Author: Cesar Daniel <cesardaniel.9611@gmail.com>
+Date:   Sat Mar 8 21:27:27 2025 -0500
+
+    starting point for popover with swiperjs implementation
+    
+    Good luck.
+
+[33mcommit d009cde7d5e16286449f2db9a45d06eacc0eb5c6[m
+Author: Buty06 <mecagoenlashormigas@gmail.com>
+Date:   Fri Mar 7 10:32:03 2025 -0500
+
+    Creando el swiper de los productos
+
+[33mcommit dcdc79ef4505a1f46d9f8ee4d3471ca9ac3dff71[m
+Author: Buty06 <mecagoenlashormigas@gmail.com>
+Date:   Thu Mar 6 10:47:21 2025 -0500
+
+    Creando el estilo principal de mobile
+
+[33mcommit e75e99c73d55765c9ce41c5e59a7a3a5f2198a24[m
+Author: Buty06 <mecagoenlashormigas@gmail.com>
+Date:   Tue Mar 4 08:41:45 2025 -0500
+
+    Creando algunos estilos en description container
+
+[33mcommit aa22dd8686a0403e10a18f0e2ddf7de22f1cb40b[m
+Author: Buty06 <mecagoenlashormigas@gmail.com>
+Date:   Mon Mar 3 15:59:15 2025 -0500
+
+    Creando algunos estilos, pero me duele la cabeza
+
+[33mcommit edd4f7e8d50646bd6753f8e359067c26c76e2679[m
+Author: Buty06 <mecagoenlashormigas@gmail.com>
+Date:   Mon Mar 3 15:17:59 2025 -0500
+
+    Creando la estructura basiquisima de html en mobile
+
+[33mcommit 3c19ea97e1bcadb395bd098d80c8998d10b9d2d5[m
+Author: Buty06 <mecagoenlashormigas@gmail.com>
+Date:   Mon Mar 3 12:24:00 2025 -0500
+
+    Creado el entorno para empezar a maquetar
+
+[33mcommit 8b8a3db80623e80f94f7f79a50d7d3c465c1c8ff[m
+Author: Buty06 <mecagoenlashormigas@gmail.com>
+Date:   Fri Feb 28 13:29:13 2025 -0500
+
+    Commit desde la consola
+
+[33mcommit e23c59490d02156c2ddb1ba9de6e87a8bfcd9a00[m
+Author: Buty <139654919+Buty06@users.noreply.github.com>
+Date:   Fri Feb 28 13:25:14 2025 -0500
+
+    Add files via upload
+    
+    Initial commit
+
+[33mcommit ffb21651eb5ce3b6dde6e397acf22acbf52a7701[m
+Author: Buty <139654919+Buty06@users.noreply.github.com>
+Date:   Fri Feb 28 13:23:57 2025 -0500
+
+    Initial commit

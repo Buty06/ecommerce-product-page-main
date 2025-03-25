@@ -4,6 +4,7 @@ const countPlus = document.getElementById("count_plus");
 const addCart = document.getElementById("description_cart");
 const storeCart = document.getElementById("store_cart");
 const value = document.getElementById("value");
+const purchaseDescription = document.getElementById("purchase_description");
 
 const plusAndLess = () => {
   countLess.addEventListener("click", () => {
@@ -29,3 +30,13 @@ const showPurchaseValue = () => {
 };
 
 showPurchaseValue();
+
+const showCart = () => {
+  storeCart.addEventListener("click", () => {
+    if (counter.textContent >= 1) {
+      purchaseDescription.style.display = "grid";
+    }
+  });
+};
+
+showCart();
